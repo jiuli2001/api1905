@@ -57,7 +57,6 @@
                 text-decoration: none;
                 text-transform: uppercase;
             }
-
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -81,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    晴空蚀月水倒流，金花一落命即休
                 </div>
 
                 <div class="links">

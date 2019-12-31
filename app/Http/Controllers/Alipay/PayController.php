@@ -1,7 +1,10 @@
 <?php
+
 namespace App\Http\Controllers\Alipay;
+
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+
 class PayController extends Controller
 {
     /**
@@ -53,7 +56,7 @@ class PayController extends Controller
         echo 'success';
     }
     /**
-     * 支付宝同步通知*
+     * 支付宝同步通知
      */
     public function aliReturn()
     {

@@ -53,7 +53,7 @@ class PayController extends Controller
         echo 'success';
     }
     /**
-     * 支付宝同步通知
+     * 支付宝同步通知*
      */
     public function aliReturn()
     {
